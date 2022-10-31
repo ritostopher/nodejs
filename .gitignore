@@ -22,6 +22,9 @@ lib-cov
 coverage
 *.lcov
 
+#System files
+.DS_Store
+
 # nyc test coverage
 .nyc_output
 
@@ -102,3 +105,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+
+# API tools
+*.paw

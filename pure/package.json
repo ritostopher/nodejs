@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Project for testing NodeJS potentiality and adjacent technologies.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritostopher/nodejs.git"
+  },
+  "author": "Christopher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritostopher/nodejs/issues"
+  },
+  "homepage": "https://github.com/ritostopher/nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
